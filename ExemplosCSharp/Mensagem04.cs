@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExemplosCSharp
+namespace ExerciciosCSharp;
+
+internal class Mensagem04
 {
-    internal class Mensagem04
+    public static void Main(String[] args)
     {
-        public static void Main(String[] args)
-        {
-            String nome = "Jailson";
-            Console.WriteLine("Olá, " + nome + "! Aprenda a identificar os momentos felizes dentro do caos da sua vida. ");
-        }
+        String nome = "Jailson";
+        Console.WriteLine("Olá, " + nome + "! Aprenda a identificar os momentos felizes dentro do caos da sua vida. ");
     }
 }

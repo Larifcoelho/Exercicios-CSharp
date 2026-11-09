@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExemplosCSharp
+namespace ExerciciosCSharp
 {
     internal class Subtracao
     {

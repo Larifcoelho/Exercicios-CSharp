@@ -2,13 +2,12 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ExemplosCSharp
+namespace ExerciciosCSharp;
+
+internal class Mensagem03
 {
-    internal class Mensagem03
+    public static void Main(String[] args)
     {
-        public static void Main(String[] args)
-        {
-            Console.WriteLine("Olá");
-        }
+        Console.WriteLine("Olá");
     }
 }
