@@ -13,4 +13,7 @@ using System;
 //Composta.Main(args);
 //Encadeada.Main(args);
 
-ExemploSwitchCase.Main(args);
+//ExemploSwitchCase.Main(args);
+//Conversao.Main(args);
+//Conversao02.Main(args);
+//Volume.Main(args);
