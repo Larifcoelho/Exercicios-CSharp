@@ -17,3 +17,5 @@ using System;
 //Conversao.Main(args);
 //Conversao02.Main(args);
 //Volume.Main(args);
+
+Combustivel.Main(args);
