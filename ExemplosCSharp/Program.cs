@@ -18,4 +18,8 @@ using System;
 //Conversao02.Main(args);
 //Volume.Main(args);
 
-Combustivel.Main(args);
+//Combustivel.Main(args);
+
+//Prestacao.Main(args);
+
+Leitura.Main(args);
